@@ -25,7 +25,7 @@ Feature: Home Page Test
     When Test Eevee launch business page button
     Then User sees Eevee launch business page
 
-# Eevee Mobility Checking Lijst
+# Eevee Mobility Checking Lijst for testing
 #1. Open de site https://eeveemobility.com/
 #2. Controleer als de knop "Talk to us" aanwezig is
 #3. Controleer als de knop "Launch EEVEE business" aanwezig is
